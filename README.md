@@ -1,2 +1,2 @@
 # react-testing-book
-Egghead react testing book series
+Code from Egghead react testing book series, but with 2017 dependencies. 
